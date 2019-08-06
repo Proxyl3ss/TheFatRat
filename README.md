@@ -9,12 +9,12 @@
 
 <img align="left" width="120" height="120" src="https://user-images.githubusercontent.com/17976841/36041771-38fbbb26-0dfc-11e8-8074-181cc778011c.png">
 
-An Easy tool to Generate Backdoor for bypass AV and Easy Tool For Post exploitation attack like browser attack,dll . This tool compiles a malware with popular payload  and then the compiled malware can be execute on windows, android, mac . 
+An easy tool to generate Backdoors that bypass a lot of AVs and an easy tool for post exploitation attack like browser attacks, dll etc. This tool compiles a malware with a popular payload  and then the compiled malware can be execute on windows, android, mac and linux. 
 
-The malware that created with this tool also have an ability to bypass most AV software protection . 
+The malware that is created with this tool also have an ability to bypass most AV real-time protection. 
         
 ### Donate
-- If this project very help you to penetration testing  and u want support me , you can give me a cup of coffee :)
+- If this project is a big help to you to perform penetration testing and you want support me, you can give me a cup of coffee :)
 - [![Donation](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://blockchain.info/id/address/1NuNTXo7Aato7XguFkvwYnTAFV2immXmjS)
 
 # Screenshots
@@ -25,27 +25,25 @@ The malware that created with this tool also have an ability to bypass most AV s
 
 # Automating metasploit functions
 
-- Create backdoor for windows , linux , mac and android
+- Create a backdoor for windows, linux, mac and android.
 
-- bypass antivirus backdoorr
+- Bypass Antivirus Software
 
-- Checks for metasploit service and starts if not present
+- Checks for metasploit service and starts if not present.
 
-- Easily craft meterpreter reverse_tcp payloads for Windows, Linux, Android and Mac and another
+- Easily craft meterpreter reverse_tcp payloads for Windows, Linux, Android and Mac and another.
 
-- Start multiple meterpreter reverse_tcp listners
+- Start multiple meterpreter reverse_tcp listeners.
 
-- Fast Search in searchsploit
-
-- Bypass AV
+- Fast search in SearchSploit.
 
 - File pumper
 
-- Create backdoor with another techniq
+- Create backdoor with another technique.
 
-- Autorunscript for listeners ( easy to use )
+- Autorun script for listeners ( easy to use ).
 
-- Drop into Msfconsole
+- Drop into MSFconsole.
 
 - Some other fun stuff :)
 
@@ -53,11 +51,11 @@ The malware that created with this tool also have an ability to bypass most AV s
 
 # Autorun Backdoor
 
-- Autorun work if the victim disabled uac ( user acces control ) or low uac ( WINDOWS )
-- What is uac ? you can visit ( http://www.digitalcitizen.life/uac-why-you-should-never-turn-it-off )
-- I have also created 3 AutoRun files
-- Simply copy these files to a CD or USB
-- You can change the icon autorun file or exe in folder icon ( replace your another ico and replace name with autorun.ico )
+- Autorun works only if the victim disabled UAC ( User Access Control ) or low UAC ( WINDOWS )
+- What is UAC ? You can visit ( http://www.digitalcitizen.life/uac-why-you-should-never-turn-it-off )
+- I have also created 3 AutoRun files.
+- Simply copy these files to a CD or USB.
+- You can change the icon autorun file or exe in folder icon ( replace your .ico and rename it => autorun.ico )
 
 
 # How to change the Icon?
@@ -87,7 +85,7 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 
 
 ## Linux operating systems we recommend :
-- Kali Linux 2 or Kali 2016.1 rolling 
+- Kali Linux 2 or Kali 2019.1 rolling 
 - Cyborg
 - Parrot 
 - BackTrack 
@@ -97,10 +95,10 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 
 
 ## READ
-- if prog.c file to large when create backdoor with powerfull.sh , you can use prog.c.backup and create another backup when you running option 2
+- Ff prog.c file is too large when you create a backdoor with powerfull.sh, you can use prog.c.backup and create another backup when you are running option 2.
 
 ## Update Fatrat
-- To update fatrat go to your TheFatRat folder and execute :
+- To update FatRat go to your TheFatRat folder and execute :
 ```git pull && chmod +x setup.sh && ./setup.sh```
 
 - To Update from 1.9.3 Version and up , execute on your fatrat folder : 
@@ -151,5 +149,5 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 
 ## ⭕️ Disclaimer
 
-***Note: modifications, changes, or alterations to this sourcecode is acceptable, however,any public releases utilizing this code must be approved by writen this tool ( Edo maland ).***
+***Note: modifications, changes, or alterations to this sourcecode is acceptable, however,any public releases utilizing this code must be approved by the author of this tool ( Edo maland ).***
 
